@@ -19,12 +19,15 @@ A modern weather application built with React that provides real-time weather in
 ## 📸 App Preview
 
 ![Search Feature](./screenshots/s2.png)
+
 *Smart Search with Auto-suggestions*
 
 ![Weather Cards](./screenshots/s3.png)
+
 *5-Day Weather Forecast*
 
 ![Dynamic Background](./screenshots/s4.png)
+
 *Dynamic Weather Background*
 
 ## 🛠️ Built With
@@ -39,7 +42,7 @@ A modern weather application built with React that provides real-time weather in
 1. Clone the repository:
 ```bash
 git clone https://github.com/Sachinrajawat/WeatherVue.git
-
+```
 2. Install dependencies:
 ```
 cd WeatherVue
